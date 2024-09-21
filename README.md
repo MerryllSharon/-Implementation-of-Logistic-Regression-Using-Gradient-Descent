@@ -101,8 +101,21 @@ print(y_prednew)
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+Dataset
+![dataset](https://github.com/user-attachments/assets/78a07c7b-117e-40ca-86e4-de068cf63b72)
 
+New data
+![new dataset](https://github.com/user-attachments/assets/42c08302-542e-4aa8-9679-0e5250067026)
+
+Accuracy and Y pred
+![Accuracy and Y pred](https://github.com/user-attachments/assets/a422baaa-3df0-4a68-a23c-cab00b31391d)
+
+New Y
+![New Y](https://github.com/user-attachments/assets/2c15a3a0-fd0c-4ef9-be08-8fa37a2f8925)
+
+![Code_BMuEiP2KON](https://github.com/user-attachments/assets/6d31e4b0-ae89-44dc-9a3a-854a014ee435)
+
+![Code_qBMPfDYWpq](https://github.com/user-attachments/assets/cf42de5e-6bf2-4833-a2ab-d852791b087f)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
