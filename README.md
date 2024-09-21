@@ -111,11 +111,14 @@ Accuracy and Y pred
 ![Accuracy and Y pred](https://github.com/user-attachments/assets/a422baaa-3df0-4a68-a23c-cab00b31391d)
 
 New Y
+
 ![New Y](https://github.com/user-attachments/assets/2c15a3a0-fd0c-4ef9-be08-8fa37a2f8925)
 
 ![Code_BMuEiP2KON](https://github.com/user-attachments/assets/6d31e4b0-ae89-44dc-9a3a-854a014ee435)
 
 ![Code_qBMPfDYWpq](https://github.com/user-attachments/assets/cf42de5e-6bf2-4833-a2ab-d852791b087f)
+
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
